@@ -46,9 +46,22 @@
 </nav>
    <div class="container">
    
-        <h1 class="display-4 text-center my-5">Mon Projet Git</h1>
+        <h1 class="display-4 text-center my-5 mb-5">Mon Projet Git</h1>
+
+
+
+
+
+
+
+
+
+
    
    </div>
     
 </body>
+<footer class="bg-light text-center py-3 mt-5">
+&copy; 2021- KA - mon premier site git hub
+</footer>
 </html>
